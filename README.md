@@ -1,2 +1,2 @@
-# Coursera-WebDevelopers
-The Labyrinth
+# Streamlining DevOps
+Neuro-Linguistic Programming will evolutionize civilization!
