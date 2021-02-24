@@ -1,3 +1,3 @@
 # Coursera-WebDevelopers
-<span>Johns Hopkins University</span>
-<span>HTML, CSS, and JavaScript for Web Developers</span>
+<div>Johns Hopkins University</div>
+<div>HTML, CSS, and JavaScript for Web Developers</div>
